@@ -43,6 +43,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <img src='./images/Dashboard.png' alt='dashboard'/>
 
 ### Team
-  * Yash Kumar, Akhilesh, Naughty boy(Akash Kakran).
+  * Yash Kumar, Akhilesh, Akash Kakran.
   ### Thanks & references
 * Thanks to Udemy & Digital Hermits
